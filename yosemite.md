@@ -9,7 +9,7 @@
 ## ⚠️ Places to Check for Open Status or Reservation Requirements
 
 - **Yosemite National Park Entrance:**  
-  - Check if you need a peak-hours reservation for your entry dates (required 6am–2pm: May 24–26, June 15–Aug 15, Aug 30–Sept 1, 2025)[2][4][5][6][7].
+  - Check if you need a peak-hours reservation for your entry dates (required 6am–2pm: May 24–26, June 15–Aug 15, Aug 30–Sept 1, 2025)[[2](#footnote-2)][[4](#footnote-4)][[5](#footnote-5)][[6](#footnote-6)][[7](#footnote-7)].
 - **Dining Locations:**  
   - [Degnan’s Kitchen](https://www.travelyosemite.com/dining/degnans-kitchen/) (seasonal hours, may close midweek or offseason)
   - [Curry Village Pizza Deck](https://www.travelyosemite.com/dining/curry-village-pizza-deck/) (seasonal, check open dates)
@@ -19,7 +19,7 @@
   - [Idle Hour Winery & Kitchen](https://www.idlehourwinery.com/menu) (check local hours)
   - [June Bug Cafe](https://junebugcafe.com/menu) (check local hours)
 - **Roads/Trails:**  
-  - Glacier Point Road and Tioga Road (seasonal closures, check if open for your dates)[1][4].
+  - Glacier Point Road and Tioga Road (seasonal closures, check if open for your dates)[[1](#footnote-1)][[4](#footnote-4)].
   - Mist Trail and Half Dome cables (trail conditions and cable installation dates).
 - **Wawona Area:**  
   - Some facilities and trails may be seasonal—verify open status.
@@ -181,21 +181,17 @@
 
 Enjoy your Yosemite adventure! 🌲🥾🍃
 
-**Be sure to check the official [Yosemite Operating Hours & Conditions](https://www.nps.gov/yose/planyourvisit/hours.htm) before your trip for the most up-to-date information on all park facilities, roads, and dining locations.**[1][2][3][4][5][6][7][8]
+**Be sure to check the official [Yosemite Operating Hours & Conditions](https://www.nps.gov/yose/planyourvisit/hours.htm) before your trip for the most up-to-date information on all park facilities, roads, and dining locations.**[[1](#footnote-1)][[2](#footnote-2)][[3](#footnote-3)][[4](#footnote-4)][[5](#footnote-5)][[6](#footnote-6)][[7](#footnote-7)][[8](#footnote-8)]
 
-[1] https://www.nps.gov/yose/planyourvisit/hours.htm
+---
 
-[2] https://www.nps.gov/yose/planyourvisit/reservations.htm
+## Footnotes
 
-[3] https://www.nps.gov/yose/planyourvisit/basicinfo.htm
-
-[4] https://yosemite.org/know-before-you-visit-yosemite-2025/
-
-[5] https://www.recreation.gov/timed-entry/10086745
-
-[6] https://www.afar.com/magazine/yosemite-has-suspended-its-reservation-system
-
-[7] https://www.visitcalifornia.com/experience/
-yosemite-national-parks-updated-reservation-policies/
-
-[8] https://www.allyosemite.com/park_info/hours_seasons.php
+<a name="footnote-1"></a>[1] https://www.nps.gov/yose/planyourvisit/hours.htm  
+<a name="footnote-2"></a>[2] https://www.nps.gov/yose/planyourvisit/reservations.htm  
+<a name="footnote-3"></a>[3] https://www.nps.gov/yose/planyourvisit/basicinfo.htm  
+<a name="footnote-4"></a>[4] https://yosemite.org/know-before-you-visit-yosemite-2025/  
+<a name="footnote-5"></a>[5] https://www.recreation.gov/timed-entry/10086745  
+<a name="footnote-6"></a>[6] https://www.afar.com/magazine/yosemite-has-suspended-its-reservation-system  
+<a name="footnote-7"></a>[7] https://www.visitcalifornia.com/experience/yosemite-national-parks-updated-reservation-policies/  
+<a name="footnote-8"></a>[8] https://www.allyosemite.com/park_info/hours_seasons.php  
